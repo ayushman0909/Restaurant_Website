@@ -52,7 +52,7 @@ const WhyChooseUs = () => {
           <img
             src={chef}
             alt="Chef"
-            className="rounded-3xl object-cover w-full h-[650px]"
+            className="rounded-3xl object-cover w-full h-162.5"
           />
 
           <div className="absolute bottom-8 left-8 bg-[#D4AF37] rounded-2xl px-8 py-5">

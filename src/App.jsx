@@ -2,7 +2,7 @@ import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
  import PopularDishes from "./components/PopularDishes";
  import WhyChooseUs from "./components/WhyChooseUs";
-// import Gallery from "./components/Gallery";
+ import Gallery from "./components/Gallery";
 // import Testimonials from "./components/Testimonials";
 // import Booking from "./components/Booking";
 // import Contact from "./components/Contact";
@@ -14,9 +14,9 @@ function App() {
       <Navbar />
       <Hero />
         <PopularDishes /> 
-    <WhyChooseUs />
-       {/* <Gallery />
-      <Testimonials />
+        <WhyChooseUs />
+        <Gallery />
+     {/* <Testimonials />
       <Booking />
       <Contact /> */}
       <Footer />
