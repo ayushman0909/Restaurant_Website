@@ -1,6 +1,6 @@
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
-// import PopularDishes from "./components/PopularDishes";
+ import PopularDishes from "./components/PopularDishes";
 // import WhyChooseUs from "./components/WhyChooseUs";
 // import Gallery from "./components/Gallery";
 // import Testimonials from "./components/Testimonials";
@@ -13,7 +13,7 @@ function App() {
     <>
       <Navbar />
       <Hero />
-       {/* <PopularDishes /> */}
+        <PopularDishes /> 
      {/* <WhyChooseUs />
       <Gallery />
       <Testimonials />
