@@ -60,7 +60,7 @@ const Gallery = () => {
               <img
                 src={img}
                 alt="Restaurant"
-                className="w-full h-[380px] object-cover transition duration-700 group-hover:scale-110"
+                className="w-full h-95 object-cover transition duration-700 group-hover:scale-110"
               />
 
               <div className="absolute inset-0 bg-black/60 opacity-0 group-hover:opacity-100 transition duration-500 flex items-center justify-center">
