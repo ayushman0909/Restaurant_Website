@@ -141,7 +141,7 @@ const Contact = () => {
 
             <iframe
               title="map"
-              className="rounded-3xl w-full h-[500px]"
+              className="rounded-3xl w-full h-125"
               loading="lazy"
               allowFullScreen
               src="https://www.google.com/maps?q=New+York&output=embed"
